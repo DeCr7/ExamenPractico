@@ -1,0 +1,14 @@
+C:\Users\Amaru_2023\Desktop\Visual Studio\ExamenPractico\bin\Debug\net8.0\ExamenPractico.exe
+C:\Users\Amaru_2023\Desktop\Visual Studio\ExamenPractico\bin\Debug\net8.0\ExamenPractico.deps.json
+C:\Users\Amaru_2023\Desktop\Visual Studio\ExamenPractico\bin\Debug\net8.0\ExamenPractico.runtimeconfig.json
+C:\Users\Amaru_2023\Desktop\Visual Studio\ExamenPractico\bin\Debug\net8.0\ExamenPractico.dll
+C:\Users\Amaru_2023\Desktop\Visual Studio\ExamenPractico\bin\Debug\net8.0\ExamenPractico.pdb
+C:\Users\Amaru_2023\Desktop\Visual Studio\ExamenPractico\obj\Debug\net8.0\ExamenPractico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amaru_2023\Desktop\Visual Studio\ExamenPractico\obj\Debug\net8.0\ExamenPractico.AssemblyInfoInputs.cache
+C:\Users\Amaru_2023\Desktop\Visual Studio\ExamenPractico\obj\Debug\net8.0\ExamenPractico.AssemblyInfo.cs
+C:\Users\Amaru_2023\Desktop\Visual Studio\ExamenPractico\obj\Debug\net8.0\ExamenPractico.csproj.CoreCompileInputs.cache
+C:\Users\Amaru_2023\Desktop\Visual Studio\ExamenPractico\obj\Debug\net8.0\ExamenPractico.dll
+C:\Users\Amaru_2023\Desktop\Visual Studio\ExamenPractico\obj\Debug\net8.0\refint\ExamenPractico.dll
+C:\Users\Amaru_2023\Desktop\Visual Studio\ExamenPractico\obj\Debug\net8.0\ExamenPractico.pdb
+C:\Users\Amaru_2023\Desktop\Visual Studio\ExamenPractico\obj\Debug\net8.0\ExamenPractico.genruntimeconfig.cache
+C:\Users\Amaru_2023\Desktop\Visual Studio\ExamenPractico\obj\Debug\net8.0\ref\ExamenPractico.dll
